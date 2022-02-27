@@ -90,5 +90,3 @@ function giacaonhat(){
     return giamax;
 
 }
-let gialonnhat=giacaonhat();
-console.log(gialonnhat);
